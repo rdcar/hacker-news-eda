@@ -102,11 +102,7 @@ We would like to thank Hacker News for providing a platform with rich data for a
 ## References
 
 - [Hacker News](https://news.ycombinator.com/)
-
 - [pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-
 - [seaborn Documentation](https://seaborn.pydata.org/)
-
 - [matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-
 - [Kaggle](https://www.kaggle.com/)
